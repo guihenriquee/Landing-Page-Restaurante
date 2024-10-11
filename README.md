@@ -14,8 +14,8 @@ Esta é uma landing page projetada para um restaurante, chamada **DEV FOOD**. O 
 - **ScrollReveal.js**: Animações de rolagem para elementos na página.
 
 ## Funcionalidades
-- Navegação: Menu de navegação com links para as seções da página.
-- Responsividade: A página se adapta a diferentes tamanhos de tela, garantindo uma boa experiência em dispositivos móveis.
-- Animações: Utilização do ScrollReveal.js para adicionar animações aos elementos ao rolar a página.
-- Cardápio: Seção dedicada para exibir pratos disponíveis com imagens, descrições e preços.
-- Avaliações: Seção com feedbacks de clientes sobre os pratos.
+- **Navegação**: Menu de navegação com links para as seções da página.
+- **Responsividade**: A página se adapta a diferentes tamanhos de tela, garantindo uma boa experiência em dispositivos móveis.
+- **Animações**: Utilização do ScrollReveal.js para adicionar animações aos elementos ao rolar a página.
+- **Cardápio**: Seção dedicada para exibir pratos disponíveis com imagens, descrições e preços.
+- **Avaliações**: Seção com feedbacks de clientes sobre os pratos.
